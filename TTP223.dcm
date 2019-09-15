@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP TTP223-BA6
 D Single-key Touch Sensor, SOT-23-6
-K  1  KEY  TOUCH  PAD  DETECTOR  IC  
+K  1  KEY  TOUCH  PAD  DETECTOR  IC
 F https://datasheet.lcsc.com/szlcsc/TTP223-BA6_C80757.pdf
 $ENDCMP
 #
